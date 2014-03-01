@@ -1,11 +1,11 @@
 {
-  "name": "angularjs-bower",
-  "version": "1.1.5",
-  "main": "angular.js",
-  "ignore": [
-  	".jshintrc",
-    "**/*.txt",
-    "node_modules",
-    "components"
-  ]
+    "name": "angularjs-bower",
+    "version": "1.2.1",
+    "main": "angular.js",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt",
+        "node_modules",
+        "components"
+    ]
 }
